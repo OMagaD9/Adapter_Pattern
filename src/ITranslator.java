@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface ITranslator {
+interface ITranslator {
+    String translate(String text);
 }
