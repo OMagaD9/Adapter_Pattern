@@ -1,1 +1,2 @@
 # AdapterTranslator
+# Adapter_Pattern
